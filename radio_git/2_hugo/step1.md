@@ -6,4 +6,6 @@ En este escenario nos descargaremos la web del RadioClub y aprenderemos a añadi
 
 Primero, vamos a comprobar que tengamos instalado hugo `hugo --help`{{ execute }}
 
-Luego necesitaremos descargar
+Luego necesitaremos descargar la web del RadioClub:
+
+git clone --recursive https://git.radio.clubs.etsit.upm.es/junta/ea4rct-web.git
