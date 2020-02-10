@@ -3,8 +3,13 @@
   "description": "Taller de Introducción a Git + Hugo",
   "courses": [
     {
-      "course_id": "git_hugo",
-      "title": "4 - Hugo",
+      "course_id": "1_git",
+      "title": "1 - Introducción a Git",
+      "description": "Breve introducción a Git. Aprovecha la terminal para probar cosas nuevas"
+    },
+    {
+      "course_id": "2_hugo",
+      "title": "2 - Hugo",
       "description": "Crear documentación con Hugo"
     }
   ]
