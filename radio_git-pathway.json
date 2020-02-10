@@ -1,0 +1,11 @@
+{
+  "title": "Git + Hugo",
+  "description": "Taller de Introducción a Git + Hugo",
+  "courses": [
+    {
+      "course_id": "git_hugo",
+      "title": "4 - Hugo",
+      "description": "Crear documentación con Hugo"
+    }
+  ]
+}
