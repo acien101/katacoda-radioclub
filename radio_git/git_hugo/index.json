@@ -35,7 +35,9 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "showdashboard": true,
+    "dashboards": [{"name": "Display 1313", "port": 1313}]
   },
   "backend": {
     "imageid": "ubuntu1804"
